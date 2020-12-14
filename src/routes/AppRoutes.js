@@ -4,6 +4,8 @@ import { Switch, Route } from "react-router-dom";
 import ShowsList from '../components/ShowsList';
 import EpisodesList from '../components/EpisodesList';
 
+import App from '../App';
+
 const AppRoutes = () => {
   return(
   <Switch>
